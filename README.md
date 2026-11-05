@@ -1,6 +1,6 @@
 # SQP for Constrained Logistic Regression
 
-## What is this project about?
+## What is this manipulation about?
 
 **SQP (Sequential Quadratic Programming)** solves constrained optimization problems:
 
