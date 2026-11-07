@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+venv/
+# LaTeX build files
+*.aux
+*.log
+*.out
+*.toc
